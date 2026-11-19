@@ -1,0 +1,17 @@
+h1{
+color: rgb(0, 140, 255);
+text-align: center;
+text-decoration: underline;
+}
+#drums {
+  font-size: 12px;
+  background-image: url("images/background-drum.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+
+}
+
+.drummers {
+font-size : 22px;
+}

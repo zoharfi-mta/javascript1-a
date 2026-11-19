@@ -1,0 +1,25 @@
+h1{
+color: blue;
+text-align: center;
+}
+#fl{
+    background-color: yellow;
+    text-align: center;
+}
+ th{
+    border: solid blue 1px;
+    
+}
+td{
+    border: solid blue 1px;
+    color: orange;
+    text-align: center;
+    font-size: 13px;
+    height: 150px;
+
+
+}
+#halilan-txt {
+    width: 60%;
+    float: right;
+}
